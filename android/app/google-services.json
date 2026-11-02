@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970576738342",
+    "project_id": "bibliotheque-quartier",
+    "storage_bucket": "bibliotheque-quartier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970576738342:android:5742f6e29ce8f6aaba8ee7",
+        "android_client_info": {
+          "package_name": "com.example.bibliotheque_quartier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsgOkzf4ciOelNLwzzNhvBOARgcep4G3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
